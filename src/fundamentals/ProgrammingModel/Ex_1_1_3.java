@@ -1,3 +1,5 @@
+package fundamentals.ProgrammingModel;
+
 import edu.princeton.cs.algs4.StdIn;
 
 import java.util.ArrayList;

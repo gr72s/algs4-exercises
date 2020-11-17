@@ -1,3 +1,5 @@
+package fundamentals.StacksAndQueues;
+
 import edu.princeton.cs.algs4.StdIn;
 
 /**

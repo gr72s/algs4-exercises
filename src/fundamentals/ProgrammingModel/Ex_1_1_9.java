@@ -1,3 +1,5 @@
+package fundamentals.ProgrammingModel;
+
 import edu.princeton.cs.algs4.StdIn;
 
 /**
@@ -18,7 +20,7 @@ public class Ex_1_1_9 {
         String s = "";
         int i = StdIn.readInt();
         for (int j = i; j > 0; j /= 2) {
-            s = ( j % 2 ) + s;
+            s = (j % 2) + s;
         }
         System.out.println(s);
     }

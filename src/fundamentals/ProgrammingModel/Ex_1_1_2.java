@@ -1,3 +1,5 @@
+package fundamentals.ProgrammingModel;
+
 /**
  * <p>
  *
@@ -14,7 +16,7 @@
 public class Ex_1_1_2 {
     public static void main(String[] args) {
         // a.
-        double v1 = ( 1 + 2.236 ) / 2;
+        double v1 = (1 + 2.236) / 2;
         System.out.println(v1);
         // b.
         double v2 = 1 + 2 + 3 + 4.0;
